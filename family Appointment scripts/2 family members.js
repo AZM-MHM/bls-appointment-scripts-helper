@@ -48,13 +48,13 @@
             //########################################################################
             //############### THIS IS THE PART YOU MUST CHANGE #######################
             //########################################################################
-                let lastNames =["LAST NAME 1","LAST NAME 2"],
-                    firstNames =["FIRST NAME 1","FIRST NAME 2"],
-                    births =["YYYY-MM-DD","YYYY-MM-DD"],//Date Of Birth '1995-09-12'
-                    passNumbers =["IO3924670","XO2918460"],//Passport Number
-                    issueDates =["YYYY-MM-DD","YYYY-MM-DD"],//Passport Issue Date
-                    expiryDates =["YYYY-MM-DD","YYYY-MM-DD"],//Passport Expiry Date
-                    pptissuePalaces =["CITY 1","CITY 2"],//Passport Issue Place
+                let lastNames =["EL AZMANI 1","ALAMI 2"],
+                    firstNames =["MOHAMED 1","ANISSA 2"],
+                    births =["1958","1966-04-26"],//Date Of Birth '1995-09-12'
+                    passNumbers =["XT0360456","UP7302102"],//Passport Number
+                    issueDates =["2024-02-22","2024-02-22"],//Passport Issue Date
+                    expiryDates =["2029-02-22","2029-02-22"],//Passport Expiry Date
+                    pptissuePalaces =["TETOUAN 1","TETOUAN 2"],//Passport Issue Place
             //########################################################################
             //########################################################################
                     number = 2,
